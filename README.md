@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto utiliza a ferramenta Tableau para analisar o desempenho de vendas de uma loja de varejo segmentado por **estado**, com base na mesma base de dados **Exemplo-Superloja.xlsx**. O objetivo principal é fornecer uma análise detalhada das vendas em diferentes estados, ajudando a identificar quais regiões estão gerando mais receita, quais apresentam maior potencial de crescimento e onde podem existir oportunidades de expansão.
+Este projeto utiliza a ferramenta Tableau para analisar o desempenho de vendas de uma loja de varejo segmentado por **estado**, com base na mesma base de dados **Exemplo-Superloja.xlsx**. O objetivo principal é fornecer uma análise detalhada das vendas em diferentes estados e regiões, ajudando a identificar quais regiões estão gerando mais receita, quais apresentam maior potencial de crescimento e onde podem existir oportunidades de expansão.
 
 Através de dashboards interativos, o projeto visa oferecer insights para as áreas de vendas, marketing e planejamento estratégico, facilitando a tomada de decisões baseadas em dados.
 
